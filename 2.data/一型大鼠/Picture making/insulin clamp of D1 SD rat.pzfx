@@ -1,0 +1,1864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphPadPrismFile xmlns="http://graphpad.com/prism/Prism.htm" PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="6.0.1.298" Login="Administrator" DateTime="2016-09-05T17:23:58+08:00"/>
+<MostRecentVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="6.0.1.298" Login="Administrator" DateTime="2017-05-02T19:22:39+08:00"/>
+</Created>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"/>
+</InfoSequence>
+<Info ID="Info0">
+<Title>Project info 1</Title>
+<Notes>
+</Notes>
+<Constant><Name>Experiment Date</Name><Value>2016-09-05</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<TableSequence>
+
+<Ref ID="Table3"/>
+<Ref ID="Table4"/>
+<Ref ID="Table5"/>
+<Ref ID="Table6"/>
+<Ref ID="Table7"/>
+<Ref ID="Table8"/>
+<Ref ID="Table9"/>
+<Ref ID="Table10"/>
+<Ref ID="Table11"/>
+<Ref ID="Table12"/>
+<Ref ID="Table13"/>
+<Ref ID="Table15"/>
+<Ref ID="Table16"/>
+<Ref ID="Table17"/>
+<Ref ID="Table18" Selected="1"/>
+</TableSequence>
+<Table ID="Table3" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (Durian)</Title>
+<XColumn Width="81" Decimals="0" Subcolumns="1">
+<Title>Time (min)</Title>
+<Subcolumn>
+<d>0</d>
+<d>15</d>
+<d>30</d>
+<d>45</d>
+<d>60</d>
+<d>75</d>
+<d>90</d>
+<d>105</d>
+<d>120</d>
+<d>135</d>
+<d>150</d>
+<d>165</d>
+<d>180</d>
+<d>225</d>
+<d>240</d>
+<d>270</d>
+<d>285</d>
+<d>300</d>
+<d>315</d>
+<d>330</d>
+<d>345</d>
+<d>360</d>
+<d>375</d>
+<d>390</d>
+<d>405</d>
+<d>420</d>
+<d>435</d>
+<d>450</d>
+<d>465</d>
+<d>480</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>21.5</d>
+<d>21.3</d>
+<d>22.4</d>
+<d>18.9</d>
+<d>15.9</d>
+<d>11.8</d>
+<d>8.3</d>
+<d>3.5</d>
+<d>3.8</d>
+<d>4.3</d>
+<d>4.1</d>
+<d>2.9</d>
+<d>2.9</d>
+<d>3.9</d>
+<d>3.6</d>
+<d>3.9</d>
+<d>4.1</d>
+<d>4.8</d>
+<d>5.2</d>
+<d>7.4</d>
+<d>7.2</d>
+<d>8.4</d>
+<d>9.3</d>
+<d>7.4</d>
+<d>10.3</d>
+<d>10.9</d>
+<d>11</d>
+<d>10.8</d>
+<d>13.9</d>
+<d>13.8</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>-0.22254</d>
+<d>1.84892</d>
+<d>4.862533</d>
+<d>6.116662</d>
+<d>7.279069</d>
+<d>7.495309</d>
+<d>8.338849</d>
+<d>7.585931</d>
+<d>7.52565</d>
+<d>6.30093</d>
+<d>10.61418</d>
+<d>10.30009</d>
+<d>9.056109</d>
+<d>5.151104</d>
+<d>3.908962</d>
+<d>1.991108</d>
+<d>1.328583</d>
+<d>0.4792</d>
+<d>0.894097</d>
+<d>0.393973</d>
+<d>0.001511</d>
+<d>0.001511</d>
+<d>0.133923</d>
+<d>0.045821</d>
+<d>-0.04297</d>
+<d>0.089959</d>
+<d>-0.04297</d>
+<d>0.133923</d>
+<d>-0.04297</d>
+<d>0.045821</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d>4.57842</d>
+<d>-0.4553</d>
+<d>0.752795</d>
+<d/>
+<d>-0.65665</d>
+<d>0.752795</d>
+<d>-0.4553</d>
+<d>1.759539</d>
+<d>0.551446</d>
+<d>0.752795</d>
+<d>1.155493</d>
+<d>0.954144</d>
+<d>1.759539</d>
+<d>0.350098</d>
+<d>0.752795</d>
+<d>-0.0526</d>
+<d>0.1</d>
+<d>1.155493</d>
+<d>-0.65665</d>
+<d>1.55819</d>
+<d>0.148749</d>
+<d>0.148749</d>
+<d>-0.0526</d>
+<d>-0.0526</d>
+<d>-1.05934</d>
+<d>-0.4553</d>
+<d>2.766282</d>
+<d>-0.4553</d>
+<d>1.356841</d>
+<d>-0.25395</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cortisol (ng/mL)</Title>
+<Subcolumn>
+<d>1.40192</d>
+<d/>
+<d>1.696764</d>
+<d/>
+<d>1.647624</d>
+<d>1.623054</d>
+<d/>
+<d>2.01618</d>
+<d>2.065322</d>
+<d>2.163602</d>
+<d>2.01618</d>
+<d>1.819616</d>
+<d>1.795046</d>
+<d>1.623054</d>
+<d>1.745906</d>
+<d>1.844188</d>
+<d>2.114462</d>
+<d/>
+<d>1.40192</d>
+<d>1.598482</d>
+<d>1.180786</d>
+<d>3.835796</d>
+<d>4.03236</d>
+<d>2.286456</d>
+<d>2.655012</d>
+<d>2.188174</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table4" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (Emblic)</Title>
+<XColumn Width="81" Decimals="0" Subcolumns="1">
+<Title>Time (min)</Title>
+<Subcolumn>
+<d>0</d>
+<d>15</d>
+<d>30</d>
+<d>45</d>
+<d>60</d>
+<d>75</d>
+<d>90</d>
+<d>105</d>
+<d>120</d>
+<d>135</d>
+<d>150</d>
+<d>165</d>
+<d>180</d>
+<d>195</d>
+<d>210</d>
+<d>225</d>
+<d>240</d>
+<d>255</d>
+<d>270</d>
+<d>285</d>
+<d>300</d>
+<d>315</d>
+<d>330</d>
+<d>345</d>
+<d>360</d>
+<d>375</d>
+<d>390</d>
+<d>405</d>
+<d>420</d>
+<d>435</d>
+<d>450</d>
+<d>465</d>
+<d>480</d>
+<d>495</d>
+<d>510</d>
+<d>525</d>
+<d>540</d>
+<d>555</d>
+<d>570</d>
+<d>585</d>
+<d>600</d>
+<d>615</d>
+<d>630</d>
+<d>645</d>
+<d>660</d>
+<d>675</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>26.6</d>
+<d>26.8</d>
+<d>26.5</d>
+<d>26.2</d>
+<d>22.7</d>
+<d>21.5</d>
+<d>13.5</d>
+<d>6.9</d>
+<d>3.9</d>
+<d>4.3</d>
+<d>3.8</d>
+<d>3.7</d>
+<d>4.7</d>
+<d>3.2</d>
+<d>3.5</d>
+<d>3.6</d>
+<d>3.6</d>
+<d>3.9</d>
+<d>3.9</d>
+<d>4.3</d>
+<d>5.8</d>
+<d>7.5</d>
+<d>6.8</d>
+<d>8.2</d>
+<d>8.7</d>
+<d>9.5</d>
+<d>8.5</d>
+<d>9.9</d>
+<d>9</d>
+<d>10.2</d>
+<d>10.5</d>
+<d>12.5</d>
+<d>13.1</d>
+<d>13.2</d>
+<d>14.8</d>
+<d>15.4</d>
+<d>16.6</d>
+<d>16.8</d>
+<d>18</d>
+<d>17</d>
+<d>18.2</d>
+<d>19.7</d>
+<d>19.8</d>
+<d>22.9</d>
+<d>24.2</d>
+<d>23.1</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>0.045821</d>
+<d>0.089959</d>
+<d>0.351083</d>
+<d>3.034472</d>
+<d>4.267924</d>
+<d>6.723208</d>
+<d>7.071919</d>
+<d>8.379147</d>
+<d>9.929457</d>
+<d>11.96418</d>
+<d>11.69058</d>
+<d>11.80282</d>
+<d>11.88813</d>
+<d>9.776027</d>
+<d>7.403473</d>
+<d>4.839785</d>
+<d>4.192688</d>
+<d>3.61205</d>
+<d>3.387156</d>
+<d>1.630304</d>
+<d>1.173241</d>
+<d>0.563685</d>
+<d>0.177713</d>
+<d>0.089959</d>
+<d>0.089959</d>
+<d>0.045821</d>
+<d>0.001511</d>
+<d>-0.04297</d>
+<d>-0.13243</d>
+<d>-0.08762</d>
+<d>0.221325</d>
+<d>-0.13243</d>
+<d>-0.13243</d>
+<d>-0.04297</d>
+<d>0.089959</d>
+<d>0.001511</d>
+<d>-0.13243</d>
+<d>-0.17741</d>
+<d>-0.13243</d>
+<d>-0.13243</d>
+<d>-0.13243</d>
+<d>-0.04297</d>
+<d>0.045821</d>
+<d>-0.08762</d>
+<d>-0.13243</d>
+<d>-0.13243</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d>6.390559</d>
+<d>1.759539</d>
+<d>1.960887</d>
+<d>0.954144</d>
+<d>-0.65665</d>
+<d>0.350098</d>
+<d>-1.05934</d>
+<d>-1.05934</d>
+<d>-0.0526</d>
+<d>1.759539</d>
+<d>-0.0526</d>
+<d>1.960887</d>
+<d>2.363585</d>
+<d>1.759539</d>
+<d>1.960887</d>
+<d>0.551446</d>
+<d>1.155493</d>
+<d>-0.0526</d>
+<d>0.752795</d>
+<d>0.752795</d>
+<d>0.148749</d>
+<d>-0.4553</d>
+<d>-1.05934</d>
+<d>-0.4553</d>
+<d>-0.85799</d>
+<d>-0.85799</d>
+<d>-0.4553</d>
+<d>0.551446</d>
+<d>-0.0526</d>
+<d>-0.65665</d>
+<d>-0.65665</d>
+<d>0.350098</d>
+<d>-0.25395</d>
+<d>0.148749</d>
+<d>-0.0526</d>
+<d>0.350098</d>
+<d>-0.25395</d>
+<d>0.752795</d>
+<d>0.350098</d>
+<d>1.155493</d>
+<d>1.960887</d>
+<d>2.564933</d>
+<d>4.377072</d>
+<d>3.370328</d>
+<d>3.571677</d>
+<d>3.168979</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn>
+<d>2.065322</d>
+<d>1.844188</d>
+<d>2.163602</d>
+<d>2.01618</d>
+<d>1.672194</d>
+<d>1.745906</d>
+<d>1.549342</d>
+<d>1.524772</d>
+<d>4.474628</d>
+<d>5.06432</d>
+<d/>
+<d>2.114462</d>
+<d/>
+<d>1.45106</d>
+<d/>
+<d>1.868758</d>
+<d/>
+<d>1.623054</d>
+<d/>
+<d>1.647624</d>
+<d/>
+<d>1.721334</d>
+<d/>
+<d>1.99161</d>
+<d/>
+<d>1.696764</d>
+<d/>
+<d>2.114462</d>
+<d/>
+<d>2.188174</d>
+<d/>
+<d>1.524772</d>
+<d/>
+<d>1.770476</d>
+<d/>
+<d>1.99161</d>
+<d/>
+<d>1.868758</d>
+<d/>
+<d>2.139032</d>
+<d/>
+<d>1.721334</d>
+<d>1.819616</d>
+<d>1.524772</d>
+<d>1.549342</d>
+<d>1.42649</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table5" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (Fig)</Title>
+<XColumn Width="81" Decimals="0" Subcolumns="1">
+<Title>Time (min)</Title>
+<Subcolumn>
+<d>0</d>
+<d>15</d>
+<d>30</d>
+<d>45</d>
+<d>60</d>
+<d>75</d>
+<d>90</d>
+<d>105</d>
+<d>120</d>
+<d>135</d>
+<d>150</d>
+<d>165</d>
+<d>180</d>
+<d>195</d>
+<d>210</d>
+<d>225</d>
+<d>240</d>
+<d>255</d>
+<d>270</d>
+<d>285</d>
+<d>300</d>
+<d>315</d>
+<d>330</d>
+<d>345</d>
+<d>360</d>
+<d>375</d>
+<d>390</d>
+<d>405</d>
+<d>420</d>
+<d>435</d>
+<d>450</d>
+<d>465</d>
+<d>480</d>
+<d>495</d>
+<d>510</d>
+<d>525</d>
+<d>540</d>
+<d>555</d>
+<d>570</d>
+<d>585</d>
+<d>600</d>
+<d>615</d>
+<d>630</d>
+<d>645</d>
+<d>660</d>
+<d>675</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>26.2</d>
+<d>25</d>
+<d>32.8</d>
+<d>32.7</d>
+<d>24.6</d>
+<d>21.9</d>
+<d>16.9</d>
+<d>12.4</d>
+<d>7.4</d>
+<d>4.1</d>
+<d>3.4</d>
+<d>2.6</d>
+<d>2.3</d>
+<d>2.2</d>
+<d>2.7</d>
+<d>2.8</d>
+<d>2.5</d>
+<d>2.7</d>
+<d>2.6</d>
+<d>3.1</d>
+<d>3.7</d>
+<d>4.8</d>
+<d>6.1</d>
+<d>6.9</d>
+<d>6.9</d>
+<d>9.5</d>
+<d>9.9</d>
+<d>10.5</d>
+<d>11.3</d>
+<d>11.7</d>
+<d>11.9</d>
+<d>13.3</d>
+<d>13.2</d>
+<d>14.3</d>
+<d>15.1</d>
+<d>15.9</d>
+<d>16.5</d>
+<d>16.4</d>
+<d>15.9</d>
+<d>16.3</d>
+<d>16.9</d>
+<d>18.1</d>
+<d>16.4</d>
+<d>18.6</d>
+<d>17.9</d>
+<d>17.2</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn/>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn>
+<d>1.672194</d>
+<d>2.188174</d>
+<d>1.549342</d>
+<d>1.303638</d>
+<d>4.327204</d>
+<d>4.720332</d>
+<d>3.491812</d>
+<d>2.237314</d>
+<d>2.188174</d>
+<d>1.524772</d>
+<d/>
+<d>4.327204</d>
+<d/>
+<d>3.049544</d>
+<d/>
+<d>2.286456</d>
+<d/>
+<d>4.474628</d>
+<d/>
+<d>4.622052</d>
+<d/>
+<d>1.942468</d>
+<d/>
+<d>1.721334</d>
+<d/>
+<d>1.40192</d>
+<d/>
+<d>1.917898</d>
+<d/>
+<d>1.745906</d>
+<d/>
+<d>1.42649</d>
+<d/>
+<d>1.377348</d>
+<d/>
+<d>1.524772</d>
+<d/>
+<d>1.279068</d>
+<d/>
+<d>0.88594</d>
+<d>1.721334</d>
+<d>1.279068</d>
+<d>1.770476</d>
+<d>1.40192</d>
+<d>1.868758</d>
+<d>1.107074</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table6" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (G)170306</Title>
+<XColumn Width="81" Decimals="1" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>4</d>
+<d>5</d>
+<d>6</d>
+<d>7</d>
+<d>8</d>
+<d>8.5</d>
+<d>9</d>
+<d>10</d>
+<d>11</d>
+<d>11.5</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>24.7</d>
+<d>26.4</d>
+<d>24.8</d>
+<d>15.6</d>
+<d>9.8</d>
+<d>3.7</d>
+<d>4.2</d>
+<d>4.2</d>
+<d>4.2</d>
+<d>5.4</d>
+<d>7.3</d>
+<d>8.9</d>
+<d>13.4</d>
+<d>14</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>-0.02285</d>
+<d>1.677775</d>
+<d>2.497593</d>
+<d>3.304403</d>
+<d>3.084172</d>
+<d>3.773503</d>
+<d>3.260668</d>
+<d>2.451956</d>
+<d>0.399173</d>
+<d/>
+<d>0.127436</d>
+<d>0.014384</d>
+<d>0.014384</d>
+<d>-0.02285</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn/>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+</Table>
+<Table ID="Table7" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (H)170306</Title>
+<XColumn Width="81" Decimals="1" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>4</d>
+<d>5</d>
+<d>6</d>
+<d>7</d>
+<d>8</d>
+<d>8.5</d>
+<d>9</d>
+<d>10</d>
+<d>11</d>
+<d>11.5</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>25.7</d>
+<d>22.7</d>
+<d>14.4</d>
+<d>5.8</d>
+<d>5.8</d>
+<d>3.7</d>
+<d>6.1</d>
+<d>6.7</d>
+<d>5.2</d>
+<d>5.3</d>
+<d>6.7</d>
+<d>10.1</d>
+<d>14.7</d>
+<d>12</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>0.089524</d>
+<d>1.587931</d>
+<d>2.177717</d>
+<d>2.132019</d>
+<d>3.128519</d>
+<d>2.634219</d>
+<d>1.146822</d>
+<d>2.860498</d>
+<d>1.146822</d>
+<d/>
+<d>0.359674</d>
+<d>0.051841</d>
+<d>-0.02285</d>
+<d>0.089524</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d>0.854246</d>
+<d>0.300756</d>
+<d/>
+<d>0.485253</d>
+<d>0.300756</d>
+<d>2.699216</d>
+<d>0.669749</d>
+<d>4.544186</d>
+<d>1.407737</d>
+<d/>
+<d>1.22324</d>
+<d>0.854246</d>
+<d>1.592234</d>
+<d>2.330222</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+</Table>
+<Table ID="Table8" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (G)170307</Title>
+<XColumn Width="81" Decimals="1" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>3.5</d>
+<d>4</d>
+<d>4.5</d>
+<d>5</d>
+<d>5.5</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>29.5</d>
+<d>24.5</d>
+<d>19.2</d>
+<d>10.8</d>
+<d>7.6</d>
+<d>5.7</d>
+<d>7.1</d>
+<d>9.1</d>
+<d>9.4</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>-0.88245</d>
+<d>2.086347</d>
+<d>4.410494</d>
+<d>6.450098</d>
+<d/>
+<d>0.806275</d>
+<d>0.242534</d>
+<d>0.089524</d>
+<d>0.127436</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn/>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+</Table>
+<Table ID="Table9" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (H)170307</Title>
+<XColumn Width="81" Decimals="1" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>3.5</d>
+<d>4</d>
+<d>4.5</d>
+<d>5</d>
+<d>5.5</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>28.5</d>
+<d>20.9</d>
+<d>20</d>
+<d>18.8</d>
+<d>14</d>
+<d>9.4</d>
+<d>9.7</d>
+<d>9.8</d>
+<d>13.2</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>0.165574</d>
+<d>0.281354</d>
+<d>1.017682</d>
+<d>4.486067</d>
+<d/>
+<d>1.233802</d>
+<d>0.681877</d>
+<d>0.359674</d>
+<d>0.478842</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn/>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+</Table>
+<Table ID="Table10" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (G)170308</Title>
+<XColumn Width="81" Decimals="1" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>4</d>
+<d>5</d>
+<d>6</d>
+<d>7</d>
+<d>10</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>30</d>
+<d>19.7</d>
+<d>16.1</d>
+<d>9.5</d>
+<d>5.2</d>
+<d>4.2</d>
+<d>6.2</d>
+<d>6</d>
+<d>6.7</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn/>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+</Table>
+<Table ID="Table11" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Rat model of type 1 diabetes (H)170308</Title>
+<XColumn Width="81" Decimals="1" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>4</d>
+<d>5</d>
+<d>6</d>
+<d>7</d>
+<d>10</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>33.3</d>
+<d>26</d>
+<d>21.5</d>
+<d>20</d>
+<d>14.4</d>
+<d>6.3</d>
+<d>4.8</d>
+<d>6</d>
+<d>6.1</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>0.165574</d>
+<d>2.269153</d>
+<d>2.223431</d>
+<d>1.498561</d>
+<d>1.677775</d>
+<d>1.632797</d>
+<d>1.017682</d>
+<d>0.723133</d>
+<d>0.478842</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d>8.972114</d>
+<d>8.787617</d>
+<d>5.097677</d>
+<d>5.651168</d>
+<d>2.514719</d>
+<d>2.330222</d>
+<d>3.806198</d>
+<d>5.651168</d>
+<d>4.91318</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="93" Decimals="6" Subcolumns="1">
+<Title>Cor<B>tisol (ng/mL)</B></Title>
+<Subcolumn/>
+</YColumn>
+</Table>
+<Table ID="Table12" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Insulin clamp of T1 (J)</Title>
+<XColumn Width="81" Decimals="0" Subcolumns="1">
+<Title>Time (min)</Title>
+<Subcolumn>
+<d>0</d>
+<d>15</d>
+<d>30</d>
+<d>45</d>
+<d>60</d>
+<d>75</d>
+<d>90</d>
+<d>105</d>
+<d>120</d>
+<d>135</d>
+<d>150</d>
+<d>165</d>
+<d>180</d>
+<d>195</d>
+<d>210</d>
+<d>225</d>
+<d>240</d>
+<d>255</d>
+<d>270</d>
+<d>285</d>
+<d>300</d>
+<d>315</d>
+<d>330</d>
+<d>345</d>
+<d>360</d>
+<d>375</d>
+<d>405</d>
+<d>435</d>
+<d>465</d>
+<d>495</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>30.7</d>
+<d>24.4</d>
+<d>26.7</d>
+<d>24.3</d>
+<d>23.8</d>
+<d>24.4</d>
+<d>25.6</d>
+<d>21.2</d>
+<d>19.4</d>
+<d>17.3</d>
+<d>9.3</d>
+<d>5.2</d>
+<d>4</d>
+<d>3.6</d>
+<d>2.7</d>
+<d>2.6</d>
+<d>2.4</d>
+<d>3</d>
+<d>2.5</d>
+<d>1.4</d>
+<d>4.7</d>
+<d>4.5</d>
+<d>3.5</d>
+<d>4.9</d>
+<d>4.5</d>
+<d>5.2</d>
+<d>6.5</d>
+<d>10.5</d>
+<d>8.5</d>
+<d>11.2</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>0.22135</d>
+<d>1.822602</d>
+<d>1.971515</d>
+<d>2.2227</d>
+<d>0.95943</d>
+<d/>
+<d>2.36</d>
+<d>2.91744</d>
+<d>7.222687</d>
+<d>14.38945</d>
+<d>13.16</d>
+<d>20.99079</d>
+<d>19.93879</d>
+<d>15.68517</d>
+<d>15.0594</d>
+<d>17.65002</d>
+<d>12.88247</d>
+<d>12.71048</d>
+<d>11.1398</d>
+<d>6.54727</d>
+<d>5.013569</d>
+<d>2.39561</d>
+<d>2.3</d>
+<d>0.868288</d>
+<d>0.868288</d>
+<d>0.868288</d>
+<d>1.004319</d>
+<d>4.918825</d>
+<d>1.136335</d>
+<d>1.092754</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d>5.036439</d>
+<d/>
+<d>1.547562</d>
+<d/>
+<d/>
+<d>0.996686</d>
+<d/>
+<d/>
+<d>0.996686</d>
+<d/>
+<d/>
+<d>8.341692</d>
+<d/>
+<d/>
+<d>69.85612</d>
+<d/>
+<d/>
+<d>56.63511</d>
+<d/>
+<d>37.17084</d>
+<d/>
+<d>9.810693</d>
+<d/>
+<d/>
+<d>7.607191</d>
+<d/>
+<d>6.689066</d>
+<d/>
+<d/>
+<d>2.832938</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table13" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Insulin and glucose clamp of T1 (J)</Title>
+<XColumn Width="81" Decimals="2" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>4</d>
+<d>5</d>
+<d>6</d>
+<d>8</d>
+<d>8.25</d>
+<d>8.5</d>
+<d>9</d>
+<d>9.5</d>
+<d>10</d>
+<d>10.5</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>30</d>
+<d>22.9</d>
+<d>19.9</d>
+<d>18.5</d>
+<d>18.5</d>
+<d>9.4</d>
+<d>6.9</d>
+<d>3.8</d>
+<d>9.2</d>
+<d>10.3</d>
+<d>12.1</d>
+<d>15.6</d>
+<d>20.6</d>
+<d>25.6</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>0.63155</d>
+<d>3.823</d>
+<d>2.759071</d>
+<d>2.94865</d>
+<d>2.0444</d>
+<d>3.515128</d>
+<d>2.791</d>
+<d>2.59656</d>
+<d>1.511441</d>
+<d>1.09275</d>
+<d>2.5303</d>
+<d>3.132</d>
+<d>3.42877</d>
+<d>2.94865</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d>8.708942</d>
+<d>3.200188</d>
+<d>0.813061</d>
+<d>1.547562</d>
+<d>0</d>
+<d>0</d>
+<d>0.07856</d>
+<d>2.098437</d>
+<d>1.914812</d>
+<d>0.445811</d>
+<d>0.07856</d>
+<d>0</d>
+<d>0.445811</d>
+<d>0</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table15" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Insulin and glucagon clamp of T1 (J)</Title>
+<XColumn Width="81" Decimals="2" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>0.5</d>
+<d>2</d>
+<d>2.25</d>
+<d>2.75</d>
+<d>3</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>25.9</d>
+<d>9.4</d>
+<d>3.3</d>
+<d>5</d>
+<d>6.7</d>
+<d>8.1</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>2.04446</d>
+<d>20.21883</d>
+<d>5.56118</d>
+<d>2.948</d>
+<d>3.684705</d>
+<d>2.292519</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d>13.29957</d>
+<d>11.64695</d>
+<d>9.810693</d>
+<d>562.3388</d>
+<d>670.1267</d>
+<d>466.6701</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table16" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Insulin and glucagon clamp of T1 (J)-one dose</Title>
+<XColumn Width="81" Decimals="2" Subcolumns="1">
+<Title>Time (h)</Title>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>2.25</d>
+<d>2.5</d>
+<d>3</d>
+<d>3.5</d>
+<d>4</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="114" Decimals="1" Subcolumns="1">
+<Title>Blood glucose (mM)</Title>
+<Subcolumn>
+<d>28.4</d>
+<d>7.3</d>
+<d>4.4</d>
+<d>14.1</d>
+<d>14.1</d>
+<d>16.3</d>
+<d>15</d>
+<d>10.5</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="87" Decimals="6" Subcolumns="1">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d/>
+<d/>
+<d>7.18524</d>
+<d>2.694582</d>
+<d>2.1318</d>
+<d>1.8226</d>
+<d>1.86022</d>
+<d>2.91744</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="84" Decimals="6" Subcolumns="1">
+<Title>Glucagon (pM)</Title>
+<Subcolumn>
+<d/>
+<d/>
+<d>20.46095</d>
+<d>151.2021</d>
+<d>389.7311</d>
+<d>83.26075</d>
+<d>65.81636</d>
+<d>606.5924</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table17" XFormat="none" YFormat="replicates" Replicates="2" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Before and after STZ injection</Title>
+<RowTitlesColumn Width="81">
+<Subcolumn>
+<d>Normal</d>
+<d>1st day</d>
+<d>2nd day</d>
+<d>3rd day</d>
+<d>4th day</d>
+<d>6th day</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="162" Decimals="6" Subcolumns="2">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>3.850355</d>
+<d>1.179508</d>
+<d>0.328062</d>
+<d>0.22135</d>
+<d>0.63155</d>
+<d>2.04446</d>
+</Subcolumn>
+<Subcolumn>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+</Subcolumn>
+</YColumn>
+<YColumn Width="162" Decimals="6" Subcolumns="2">
+<Title>glu<B>cagon (pM)</B></Title>
+<Subcolumn>
+<d>4.669189</d>
+<d>13.4832</d>
+<d>7.607191</d>
+<d>5.036439</d>
+<d>8.708942</d>
+<d>13.29957</d>
+</Subcolumn>
+<Subcolumn>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+</Subcolumn>
+</YColumn>
+<YColumn Width="162" Decimals="1" Subcolumns="2">
+<Title>Blo<B>od glucose (mM)</B></Title>
+<Subcolumn>
+<d>7.8</d>
+<d>23.6</d>
+<d>24.4</d>
+<d>30.7</d>
+<d>30</d>
+<d>25.9</d>
+</Subcolumn>
+<Subcolumn>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table18" XFormat="numbers" YFormat="replicates" Replicates="2" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Before and after STZ injection (J)</Title>
+<RowTitlesColumn Width="81">
+<Subcolumn>
+<d>Normal</d>
+<d>1st day</d>
+<d>2nd day</d>
+<d>3rd day</d>
+<d>4th day</d>
+<d>6th day</d>
+</Subcolumn>
+</RowTitlesColumn>
+<XColumn Width="81" Decimals="0" Subcolumns="1">
+<Title/>
+<Subcolumn>
+<d>0</d>
+<d>1</d>
+<d>2</d>
+<d>3</d>
+<d>4</d>
+<d>6</d>
+</Subcolumn>
+</XColumn>
+<YColumn Width="162" Decimals="6" Subcolumns="2">
+<Title>Ins<B>ulin (ng/mL)</B></Title>
+<Subcolumn>
+<d>3.850355</d>
+<d>1.179508</d>
+<d>0.328062</d>
+<d>0.22135</d>
+<d>0.63155</d>
+<d>2.04446</d>
+</Subcolumn>
+<Subcolumn>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+</Subcolumn>
+</YColumn>
+<YColumn Width="162" Decimals="6" Subcolumns="2">
+<Title>glu<B>cagon (pM)</B></Title>
+<Subcolumn>
+<d>4.669189</d>
+<d>13.4832</d>
+<d>7.607191</d>
+<d>5.036439</d>
+<d>8.708942</d>
+<d>13.29957</d>
+</Subcolumn>
+<Subcolumn>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+</Subcolumn>
+</YColumn>
+<YColumn Width="162" Decimals="1" Subcolumns="2">
+<Title>Blo<B>od glucose (mM)</B></Title>
+<Subcolumn>
+<d>7.8</d>
+<d>23.6</d>
+<d>24.4</d>
+<d>30.7</d>
+<d>30</d>
+<d>25.9</d>
+</Subcolumn>
+<Subcolumn>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+<d/>
+</Subcolumn>
+</YColumn>
+</Table>
+
+<!--Analyses, graphs and layouts as compressed binary. Don't edit this part of the file.-->
+
+<Template xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">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
+11DAfBmD+TLLfCnAq0e9Crn7ipTggRPiJ9qLw17x/xMah0ed+WrUee6KfO6+pkNqBCKkRiBC
+agQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRG
+IEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQi
+pEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJq
+BCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYg
+QmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKk
+RiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoE
+IqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBC
+agQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRG
+IEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRiBCagQi
+pEYgQmoEIqRGIEJqBCKkRiBCagQipEYgQmoEIqRGIEJqBCKkRsjD/z7F0v8eYOl/D7T0v081
+9b9rdL4FZeF/1xgG68j+9zorX65G45wwBt73KVmUYCyVyNv7rsnifQ+wpY4N77smi/c9ME/F
+Cve+a7J436fa0sSO911TgPdN5+R9NxXufeur2Nt9N/C++5L3rY3sOyHdnXalPgtLn4XFzzK9
+70GW3rdbeYH3Dd43eN/gfYP3Dd43eN/gfZfL+x5s6X2fZul9xy2979NNve9BOt+CtvC+BxXq
+fQ/K4n0PzqIEY6lE3t73oCze92m21LHhfQ/K4n3H81SscO97UBbv+3RbmtjxvgcV4H0z+ex9
+TyrA+x4E3jd4331y71v2PRjxM3+G9z0E9r7B+wbvG7xv8L7B+wbvG7zvHu19D7X0vodZet/D
+Lb3vEabe9xCdb8FYeN9DCvW+h2TxvodmUYKxVCJv73tIFu97mC11bHjfQ7J438PzVKxw73tI
+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
+wpNMoEy4db7iSvx/AAAA//8DAPPGTSg=</Template></GraphPadPrismFile>
